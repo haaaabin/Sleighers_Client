@@ -47,48 +47,8 @@
 
 **현장 발표 영상 : [바로가기](https://youtu.be/e5F5qNgc_2M)**
 
-**[게임 실행파일 다운로드](https://drive.google.com/file/d/1_wK8OwwaYm0cgWS75YG6d_3uWzrxNGxk/view?usp=sharing)**
 
-![로그인](https://github.com/user-attachments/assets/7c11735a-5932-49e6-8962-0026f8f9288f)
-<p align="center">
-  <b>로그인</b>
-</p>
-
-![로비](https://github.com/user-attachments/assets/544cae38-c63d-414c-8c8c-83024b247d48)
-<p align="center">
-  <b>로비</b>
-</p>
-
-![매치메이킹](https://github.com/user-attachments/assets/c814d069-2b70-4eab-92b5-e4a13b0cf3fa)
-<p align="center">
-  <b>매치메이킹</b>
-</p>
-
-![매치메이킹 성공](https://github.com/user-attachments/assets/f83b8e40-fa17-4766-8875-b012d935a5fe)
-<p align="center">
-  <b>매치메이킹 성공</b>
-</p>
-
-![인게임 준비](https://github.com/user-attachments/assets/1ebdf3fb-7492-45d4-9c62-8bd885156dc7)
-<p align="center">
-  <b>인게임 준비</b>
-</p>
-
-![인게임 1](https://github.com/user-attachments/assets/5c55410b-04f2-4d39-bddb-f1309a8d0af1)
-<p align="center">
-  <b>인게임 1</b>
-</p>
-
-![인게임 2](https://github.com/user-attachments/assets/671ac2da-3b20-4048-a6dc-acd5d794c5dd)
-<p align="center">
-  <b>인게임 2</b>
-</p>
-
-![인게임 결과](https://github.com/user-attachments/assets/1f4bf291-769a-48c5-a87a-81997a6619f2)
-<p align="center">
-  <b>인게임 결과</b>
-</p>
-<br/>
+![](https://github.com/user-attachments/assets/d1383c06-17bc-48da-a2ca-5fc1aa292072)
 
 <a name="Arch"></a>
 ## 프로젝트 아키텍쳐
